@@ -1,0 +1,139 @@
+.outer{
+    background-color: #ffff;
+    display: grid;
+    place-items: center;
+
+}
+.Addstudent{
+    border: 3px solid #69c;
+    background-color: #ffff;
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 4% 0 ;
+    border-radius: 20px;
+    padding: 1% 2%;
+}
+.Addstudent h2{
+    display: inline-block;
+    width: 75%;
+    text-align: center;
+    color: #141A46;
+}
+.h{
+   margin-left: 16%;
+   width: 65%!important;
+}
+.Addstudent a{
+    background-color: red !important;
+    width: 6% !important;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: .5% 2% .5% 1.6%;
+    text-decoration: none;
+    color: #ffff;
+    border-radius: 20px;
+}
+.Addstudent p{
+    width: 30%;
+    margin-bottom: 1%;
+    margin-top: 3%;
+    color: #356ba2;
+}
+.Addstudent input{
+    width:28%;
+    padding: 1%;
+    outline: none;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+.Addstudent select{
+    width: 30%;
+    padding: 1%;
+    outline: none;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+.Addstudent textarea{
+    width: 27.5%;
+    outline: none;
+    border-radius: 30px;
+    border: 1px solid black;
+    padding-left: 2%;
+}
+.btn{
+    width: 100%;
+    text-align: center;
+    margin: 3% 0 4% 0;
+}
+.btn button{
+    border: none;
+    background-color: #141A46;
+    color: #ffff;
+    border-radius: 30px;
+    padding: 1% 2%;
+}
+.phn{
+    width: 40%!important;
+}
+.secondh2{
+   margin: 0;
+   margin-top: 3%;
+}
+.popup{
+    position: absolute;
+    top: 40%;
+    background-color: rgb(172, 172, 172);
+    width: 30%;
+    text-align: center;
+    padding:4% 2%;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    transition: ease-in-out;
+}
+.alert{
+    position: absolute;
+    top: 40%;
+    background-color: rgb(233, 41, 41);
+    width: 30%;
+    padding: .5%;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    transition: ease-in-out;
+    color: #ffff;
+}
+.alert div{
+    border: 2px solid #fff;
+    padding:10% 2%;
+    width: 95%;
+    border-radius: 14px;
+}
+.alert span{
+    width: 30px;
+    height: 30px;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 12%;
+    right: 3.5%;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+}
+.stuemail{
+    top:57%!important;
+    left: 69%!important;
+}
+.fphone{
+    top:67.5%!important;
+    left: 22.5%!important; 
+}
+.mphone{
+    top:67.5%!important;
+    left: 46%!important;
+}

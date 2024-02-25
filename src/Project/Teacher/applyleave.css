@@ -1,0 +1,131 @@
+.cover {
+    width: 100vw;
+    height: 100vh;
+    background-color: #fff;
+    display: grid;
+    place-items: center;
+}
+
+.applyleave {
+    border: 3px solid #69c;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-bottom: 3%;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+}
+
+.applyleave h1 {
+    width: 100%;
+    text-align: center;
+    background-color: #356ba2;
+    margin: 0;
+    padding: 4%;
+    color: #fff;
+}
+
+.applyleave p {
+    width: 100%;
+    margin-left: 20%;
+}
+.p{
+    margin-top: 7%;
+}
+.applyleave input {
+    width: 59%;
+    outline: none;
+    border-radius: 20px;
+    border: .1px solid black;
+    padding: 1% 0 1% 2%;
+    font-family: cursive;
+}
+
+.applyleave textarea {
+    outline: none;
+    border-radius: 20px;
+    padding: 2% 0 1% 2%;
+    font-family: cursive;
+    width: 59%;
+    border: .1px solid black;
+
+}
+
+.applyleave .button {
+    width: 100%;
+    text-align: center;
+    margin-top: 3%;
+}
+.button button{
+    width: 15%;
+    padding: 1% 0;
+    border: none;
+    border-radius: 20px;
+    background-color: #69c;
+    color: #fff;
+    font-family: cursive;
+}
+.app-alert{
+    position: absolute;
+    top: 43%;
+    background-color: rgb(233, 41, 41);
+    width: 65%;
+    padding: 1%;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    transition: ease-in-out;
+    color: #ffff;
+}
+.app-alert div{
+    border: 2px solid #fff;
+    padding:14% 2%;
+    width: 95%;
+    border-radius: 14px;
+}
+.app-alert span{
+    width: 30px;
+    height: 30px;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 12%;
+    right: 3.5%;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+}
+.float{
+    position: absolute;
+    top: 14%;
+    right: 1%;
+    width: 30%!important;
+}
+.app-popup{
+    position: absolute;
+    top: 40%;
+    background-color: rgb(172, 172, 172);
+    width: 60%;
+    text-align: center;
+    padding:8% 4%;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    transition: ease-in-out;
+}
+.leaveback{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    background-color: red;
+    text-decoration: none;
+    color: #ffff;
+    width: 14%;
+    border-radius: 30px;
+    position: absolute;
+    top: 6%;
+    right: 4%;
+    padding: .3% ;
+}

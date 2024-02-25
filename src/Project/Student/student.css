@@ -1,0 +1,337 @@
+.outer {
+    width: 100vw;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.student {
+    border: 3px solid #6262b3;
+    box-shadow: 0 0 20px #7F7FD5;
+    width: 65%;
+    padding: 1% 2%;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 6% 0;
+    position: relative;
+    background-color: #fff;
+}
+
+.mod_div{
+    width: 90%!important;
+    align-items: center;
+    display: flex;
+    background-color: #fff!important;
+    border: none!important;
+}
+.backdiv{
+    width: 10%!important;
+    background-color: #fff!important;
+    border: none!important;
+}
+.backdiv a{
+    padding:4% 2%!important;
+}
+.student h2 {
+    width: 90%;
+}
+
+.student button {
+    border: none;
+    color: #fff;
+    background-color: rgb(30, 241, 30);
+    padding: 1% 2%;
+    border-radius: 20px;
+    font-size: 1rem;
+    font-family: cursive;
+    width: 12%;
+}
+
+.student a {
+    border: none;
+    color: #fff;
+    background-color: blue;
+    padding: 1% 2%;
+    border-radius: 20px;
+    font-size: 1rem;
+    font-family: cursive;
+    width: 8.5%;
+    text-decoration: none;
+}
+
+.applybtn {
+    width: 13.5% !important;
+    background-color: #69c !important;
+}
+
+.h2 {
+    width: 100% !important;
+    text-align: center;
+}
+
+.student div {
+    width: 30%;
+    border: 2px solid black;
+    text-align: center;
+    margin-bottom: 2%;
+    border-radius: 20px;
+    color: #fff;
+    background-color: #69c;
+}
+
+.editdiv {
+    width: 100% !important;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    border: none !important;
+    background-color: #fff !important;
+}
+
+.tag {
+    width: 30% !important;
+    transition: none !important;
+}
+
+.editdiv button {
+    width: 8%;
+    margin: 1% 30% 2% 30%;
+    padding: .8% 0;
+    background-color: #69c;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    font-family: cursive;
+}
+
+.p-address {
+    width: 60% !important;
+    transition: none !important;
+}
+
+.student span {
+    width: 8%;
+}
+
+.edit {
+    width: 29% !important;
+    padding: 1.35% .5% !important;
+    transition: none;
+    background-color: rgb(60, 192, 60)!important;
+}
+
+.edit input {
+    text-align: center;
+    width: 34%;
+    background-color: rgb(60, 192, 60)!important;
+}
+
+.edit-E input {
+    width: 60%;
+    background-color: rgb(60, 192, 60)!important;
+}
+
+.p-edit {
+    width: 59% !important;
+    padding: 1.35% .5% !important;
+    transition: none !important;
+    background-color: rgb(60, 192, 60)!important;
+}
+
+.p-edit input {
+    width: 55%;
+    text-align: center;
+    background-color: rgb(60, 192, 60)!important;
+}
+
+.edit input {
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #fff;
+    background-color: #69c;
+    color: #fff;
+    font-size: 1rem;
+    font-family: cursive;
+}
+
+.p-edit input {
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #fff;
+    background-color: #69c;
+    color: #fff;
+    font-size: 1rem;
+    font-family: cursive;
+}
+
+.pd {
+    width: 46% !important;
+}
+
+.attendancelist {
+    width: 95% !important;
+    background-color: transparent !important;
+    background-image: linear-gradient(45deg, #5555f6, #7979c6, #86f8f0) !important;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.attendh1 {
+    color: #fff;
+}
+
+.graph {
+    width: 83% !important;
+    margin: 1% 6%;
+    height: 60vh;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #fff !important;
+    border: none !important;
+    border-radius: 0 !important;
+    border-top-right-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+    border-bottom: 4px solid black !important;
+    border-left: 4px solid black !important;
+    overflow: hidden;
+}
+
+.graphlist {
+    width: 7% !important;
+    border: 2px solid #fff !important;
+    background-color: #1A5276 !important;
+    color: #fff !important;
+    padding: 1% 2%;
+
+}
+
+.graphbottom {
+    margin: 1% 4%;
+    display: flex;
+    height: 8vh;
+    width: 84% !important;
+    justify-content: space-evenly;
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.grow {
+    width: 10% !important;
+    width: 55vh;
+    background-color: #8a307f !important;
+    margin: 9% 0 0 0 !important;
+    border-radius: 0 !important;
+    border: none !important;
+    border-top-right-radius: 30px !important;
+    animation-name: grow !important;
+    animation-iteration-count: 1;
+    animation-duration: 1s;
+    transition: 1s ease-in-out;
+    overflow: hidden;
+    box-shadow: 0 0 13px grey;
+}
+
+@keyframes grow {
+    0% {
+        transform: translateY(100%);
+    }
+
+    100% {
+        transform: translateY(0%);
+    }
+}
+
+.grow div {
+    width: 120%;
+    margin: 30% 0 20% -20%;
+    padding: 13%;
+    transform: rotate(30deg) !important;
+    background-color: transparent !important;
+    background-image: linear-gradient(to right, #4172db, #79a7d3) !important;
+    border: none !important;
+}
+
+.div1 {
+    width: 120%;
+    margin: -1% 0 20% -20% !important;
+    padding: 5%;
+    transform: rotate(30deg) !important;
+}
+
+.none {
+    width: 10% !important;
+    height: 0;
+    background-color: #fff !important;
+    color: #043b5d !important;
+    border: none !important;
+    margin-top: 18%;
+    font-size: 2.5rem;
+    font-weight: bold;
+    transition: none !important;
+}
+.none p{
+    margin: 0;
+    font-family: sans-serif!important;
+    transition: 1s ease-in-out !important;
+    animation-name: thumb !important;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+}
+
+@keyframes thumb {
+    0% {
+        transform: rotate(90deg);
+    }
+
+    50% {
+        transform: rotate(5deg);
+    }
+
+    100% {
+        transform: rotate(90deg);
+    }
+}
+
+.arr {
+    position: absolute;
+    top: 78%;
+    background-color: rgb(255, 0, 153);
+    color: #fff;
+    width: 50px !important;
+    height: 50px !important;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    border: 2px solid #fff;
+}
+
+.left {
+    left: 7%;
+}
+
+.right {
+    right: 7%;
+}
+
+.pop {
+    position: absolute;
+    top: 75%;
+    background-color: rgb(255, 0, 149) !important;
+    font-size: 2rem;
+    width: 40% !important;
+    padding: 2% !important;
+}
+
+.pop span {
+    background-color: #fff;
+    color: black;
+    border-radius: 50%;
+    padding: .8% 2.5%;
+    border: 2px solid black;
+}

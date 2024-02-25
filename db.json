@@ -1,0 +1,2154 @@
+{
+  "Admin": [
+    {
+      "id": 1,
+      "name": "Alex",
+      "pass": "20-12-1995",
+      "age": "28",
+      "gender": "Male",
+      "email": "alex@gmail.com",
+      "address": "1st street,Anna nagar,Chennai-28",
+      "phn": "9835648735"
+    },
+    {
+      "id": 2,
+      "name": "Sam",
+      "pass": "2000-11-30",
+      "age": "23",
+      "gender": "Female",
+      "email": "sam@gmail.com",
+      "address": "3rd cr street,East face Road,Chennai-30",
+      "phn": "6369283973"
+    },
+    {
+      "id": 3,
+      "name": "Pattu",
+      "pass": "1985-03-31",
+      "age": "38",
+      "gender": "Male",
+      "email": "pattu@gmail.com",
+      "address": "1st street,Kodabakkam,Chennai-28",
+      "phn": "9944927383"
+    }
+  ],
+  "Teacher": [
+    {
+      "name": "Suresh",
+      "pass": "1983-02-11",
+      "classteacher": "yes",
+      "age": "40",
+      "gender": "Male",
+      "experience": "17-yrs",
+      "qualification": "B.ed,M.ed-Physics",
+      "major": "Physics,Science",
+      "phn": "9917827384",
+      "email": "crsuresh@gmail.com",
+      "address": "3rd face street,Royapetta,Chhenai-32",
+      "id": 2
+    },
+    {
+      "name": "Sureshk",
+      "pass": "1983-02-11",
+      "classteacher": "Yes",
+      "age": "40",
+      "gender": "Male",
+      "experience": "17-yrs",
+      "qualification": "B.ed,M.ed-Physics",
+      "major": "Physics,Science",
+      "phn": "9917827384",
+      "email": "crsuresh@gmail.com",
+      "address": "3rd face street,Royapetta,Chhenai-32",
+      "id": 3
+    },
+    {
+      "name": "Deepa",
+      "age": "32",
+      "pass": "04-06-1991",
+      "gender": "Female",
+      "classteacher": "Yes",
+      "class": "5-th",
+      "experience": "10yrs",
+      "qualification": "B.ed-English",
+      "major": "English",
+      "phn": "000000000",
+      "email": "crdeepa@gmail.com",
+      "address": "2nd street,Kovil puram,Chennai-31",
+      "id": 4
+    },
+    {
+      "name": "Deepa",
+      "age": "32",
+      "pass": "1991-06-04",
+      "gender": "Female",
+      "classteacher": "Yes",
+      "class": "5-th",
+      "experience": "10yrs",
+      "qualification": "B.ed-English",
+      "major": "English",
+      "phn": "9893780000",
+      "email": "crdeepa@gmail.com",
+      "address": "2nd street,Kovil puram,Chennai-31",
+      "id": 6
+    },
+    {
+      "name": "tdhdgj",
+      "age": "jgdjdg",
+      "pass": "2023-12-13",
+      "gender": "Male",
+      "classteacher": "Yes",
+      "class": "dgjdffj",
+      "experience": "djfsd",
+      "qualification": "fjfxj",
+      "major": "fjfxj",
+      "phn": "fjxfjxf",
+      "email": "jfxjxfj",
+      "address": "fjxjxf",
+      "id": 7
+    }
+  ],
+  "Student": [
+    {
+      "name": "Geetha",
+      "class":"5-th",
+      "age": "12",
+      "pass": "13-04-2011",
+      "bloodgroup": "0 +ve",
+      "fnmae": "Rajan",
+      "mname": "Mahela",
+      "email": "geetha345@gmail.cow",
+      "fphn": "6369726783",
+      "mphn": "9764567352",
+      "address": "2nd street,Koyembedu,Chennai-30",
+      "foccup": "Business man",
+      "moccup": "Home Wife",
+      "id": 1
+    },
+    {
+      "name": "Virat",
+      "class": "5-th",
+      "age": "12",
+      "bloodgroup": "0 +ve",
+      "gender": "Male",
+      "pass": "2011-10-29",
+      "fnmae": "Kumar",
+      "mname": "Priya",
+      "email": "viratkamal@gmail.com",
+      "fphn": "9846372974",
+      "mphn": "9283937913",
+      "address": "2nd street,T.nagar,Chennai-31",
+      "foccup": "Officeclerk",
+      "moccup": "Housewife",
+      "id": 2
+    },
+    {
+      "name": "Sanjay",
+      "class": "5-th",
+      "age": "12",
+      "bloodgroup": "B +ve",
+      "gender": "Male",
+      "pass": "2011-01-13",
+      "fnmae": "Raju",
+      "mname": "Manju",
+      "email": "sanjayrm@gmail.com",
+      "fphn": "8738392893",
+      "mphn": "9943738299",
+      "address": "3rd cross street,Chetpet,Chennai-28",
+      "foccup": "Car Driver",
+      "moccup": "Tailor",
+      "id": 3
+    },
+    {
+      "name": "Preethi",
+      "class": "5-th",
+      "age": "12",
+      "bloodgroup": "A +ve",
+      "gender": "Female",
+      "pass": "2011-07-08",
+      "fnmae": "Siva",
+      "mname": "Kumari",
+      "email": "preethi08@gmail.com",
+      "fphn": "9583972927",
+      "mphn": "8936817914",
+      "address": "8 th street,Anna nagar,Chennai-31",
+      "foccup": "IT employee",
+      "moccup": "House Wife",
+      "id": 4
+    },
+    {
+      "name": "Deepak",
+      "class": "5-th",
+      "age": "13",
+      "pass": "2010-02-01",
+      "bloodgroup": "O +ve",
+      "gender": "Male",
+      "fnmae": "Murugan",
+      "mname": "Uma",
+      "email": "deepak001@gmail.com",
+      "fphn": "9324709495",
+      "mphn": "9765872894",
+      "address": "4 th cross street,Kodambakkam,Chennai-29",
+      "foccup": "Daily Wages",
+      "moccup": "Daily Wages",
+      "id": 5
+    },
+    {
+      "name": "Gowri",
+      "class": "5-th",
+      "age": "12",
+      "bloodgroup": "AB +ve",
+      "gender": "Female",
+      "pass": "2011-08-22",
+      "fnmae": "Saami",
+      "mname": "Anitha",
+      "email": "gowri@gmail.com",
+      "fphn": "9473878378",
+      "mphn": "8784933698",
+      "address": "1 st street,Anna nagar,Chennai-30",
+      "foccup": "IT employee",
+      "moccup": "House Wife",
+      "id": 6
+    },
+    {
+      "name": "Arjun",
+      "class": "5-th",
+      "age": "12",
+      "bloodgroup": "O +ve",
+      "gender": "Male",
+      "pass": "2011-03-09",
+      "fnmae": "Ravi",
+      "mname": "Chellam",
+      "email": "arjunravi@gmail.com",
+      "fphn": "9375898356",
+      "mphn": "8387847455",
+      "address": "5 th street,Tambaram,Chennai-32",
+      "foccup": "Business Man",
+      "moccup": "House Wife",
+      "id": 7
+    },
+    {
+      "name": "Ganesh",
+      "class": "5-th",
+      "age": "13",
+      "bloodgroup": "O +ve",
+      "gender": "Male",
+      "pass": "2010-12-06",
+      "fnmae": "Devaraj",
+      "mname": "Kamala",
+      "email": "ganeshdev@gmail.com",
+      "fphn": "97587823936",
+      "mphn": "9475897587",
+      "address": "8 th street,Anna nagar,Chennai-30",
+      "foccup": "Goldsmith",
+      "moccup": "House Wife",
+      "id": 8
+    },
+    {
+      "name": "Ashok",
+      "class": "5 th",
+      "age": "12",
+      "bloodgroup": "O +ve",
+      "gender": "Male",
+      "pass": "2011-04-02",
+      "fnmae": "Tamil",
+      "mname": "Devi",
+      "email": "ashok@gmail.com",
+      "fphn": "8362376746",
+      "mphn": "9882726769",
+      "address": "3 rd cross street,T.nagar,Chennai-30",
+      "foccup": "Fishermen",
+      "moccup": "Daily Wages",
+      "id": 9
+    },
+    {
+      "name": "Barathan",
+      "class": "5-th",
+      "age": "12",
+      "bloodgroup": "A +ve",
+      "gender": "Male",
+      "pass": "2011-07-03",
+      "fnmae": "Ramchandran",
+      "mname": "Kumari",
+      "email": "barathan@gmail.com",
+      "fphn": "8627472478",
+      "mphn": "9828724467",
+      "address": "6 th street,Chetpet,Chennai-31",
+      "foccup": "Locomotive operator",
+      "moccup": "House Wife",
+      "id": 10
+    },
+    {
+      "name": "Raju",
+      "class": "6-th",
+      "age": "13",
+      "bloodgroup": "O +ve",
+      "gender": "Male",
+      "pass": "2010-03-16",
+      "fnmae": "Kumar",
+      "mname": "Raji",
+      "email": "raju03@gmail.com",
+      "fphn": "8636683876",
+      "mphn": "9717187889",
+      "address": "4 th street,Kodambakkam,Chennai-29",
+      "foccup": "Welder",
+      "moccup": "House Wife",
+      "id": 11
+    },
+    {
+      "name": "Akshaya",
+      "class": "6-th",
+      "age": "13",
+      "bloodgroup": "AB +ve",
+      "gender": "Female",
+      "pass": "2010-02-15",
+      "fnmae": "Selvam",
+      "mname": "Manju",
+      "email": "akshaya@gmail.com",
+      "fphn": "9827843787",
+      "mphn": "8748734874",
+      "address": "4 th street,Anna nagar,Chennai-30",
+      "foccup": "Plumber",
+      "moccup": "House Wife",
+      "id": 12
+    },
+    {
+      "name": "Divya",
+      "class": "6-th",
+      "age": "14",
+      "bloodgroup": "O +ve",
+      "gender": "Female",
+      "pass": "2009-06-30",
+      "fnmae": "Sekar",
+      "mname": "Shanthi",
+      "email": "divyasekar@gmail.com",
+      "fphn": "9876489844",
+      "mphn": "8981488688",
+      "address": "9 th street,T.nagar,Chennai-31",
+      "foccup": "Electrician",
+      "moccup": "House Wife",
+      "id": 13
+    },
+    {
+      "name": "Siva",
+      "class": "6-th",
+      "age": "13",
+      "bloodgroup": "B +ve",
+      "gender": "Male",
+      "pass": "2010-10-17",
+      "fnmae": "Muthu",
+      "mname": "Subbu",
+      "email": "sivamuthu@gmail.com",
+      "fphn": "8217747874",
+      "mphn": "9379748877",
+      "address": "2 nd street,Saidapet,Chennai-31",
+      "foccup": "IT employee",
+      "moccup": "House Wife",
+      "id": 14
+    },
+    {
+      "name": "Tamil",
+      "class": "6-th",
+      "age": "13",
+      "bloodgroup": "O +ve",
+      "gender": "Male",
+      "pass": "2010-12-08",
+      "fnmae": "Senthil",
+      "mname": "Meena",
+      "email": "tamil@gmail.com",
+      "fphn": "9923877852",
+      "mphn": "9983884774",
+      "address": "1 st cross street,Ashok nagar,Chennai-29",
+      "foccup": "Auto Driver",
+      "moccup": "House Wife",
+      "id": 15
+    },
+    {
+      "name": "Ahmed",
+      "class": "6-th",
+      "age": "13",
+      "bloodgroup": "A +ve",
+      "gender": "Male",
+      "pass": "2010-03-22",
+      "fnmae": "Hussain",
+      "mname": "Arifa",
+      "email": "ahmed@gmail.com",
+      "fphn": "9257856885",
+      "mphn": "8914979794",
+      "address": "2 nd street,Koyembedu,Chennai-32",
+      "foccup": "Office worker",
+      "moccup": "House Wife",
+      "id": 16
+    },
+    {
+      "name": "Sushmi",
+      "class": "6-th",
+      "age": "13",
+      "bloodgroup": "O +ve",
+      "gender": "Female",
+      "pass": "2010-05-05",
+      "fnmae": "Vignesh",
+      "mname": "Kani",
+      "email": "sushmi@gmail.com",
+      "fphn": "9878787298",
+      "mphn": "8929749389",
+      "address": "2 nd street,Nungabakkam,Chennai-30",
+      "foccup": "Office Worker",
+      "moccup": "House Wife",
+      "id": 17
+    },
+    {
+      "name": "Meniga",
+      "class": "6-th",
+      "age": "13",
+      "bloodgroup": "A +ve",
+      "pass": "2010-12-19",
+      "fnmae": "Sivaji",
+      "mname": "Sarasvathi",
+      "email": "meniga@gmail.com",
+      "fphn": "9787724768",
+      "mphn": "9791627265",
+      "address": "meniga@gmail.com",
+      "foccup": "Welder",
+      "moccup": "Teacher",
+      "id": 18
+    },
+    {
+      "name": "Devi",
+      "class": "6-th",
+      "age": "13",
+      "bloodgroup": "O +ve",
+      "gender": "Female",
+      "pass": "2010-04-20",
+      "fnmae": "Bharathi",
+      "mname": "Ramapriya",
+      "email": "devi@gmail.com",
+      "fphn": "8782682682",
+      "mphn": "9379878946",
+      "address": "2nd street,T.nagar,Chennai-31",
+      "foccup": "Accountant",
+      "moccup": "House Wife",
+      "id": 19
+    },
+    {
+      "name": "Sherlin",
+      "class": "6-th",
+      "age": "13",
+      "bloodgroup": "AB +ve",
+      "gender": "Female",
+      "pass": "2010-09-13",
+      "fnmae": "Edward",
+      "mname": "sofi",
+      "email": "shelin009@gmail.com",
+      "fphn": "9282484884",
+      "mphn": "9278427827",
+      "address": "4 th cross street,Anna nagar,Chennai-28",
+      "foccup": "IT employee",
+      "moccup": "House Wife",
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "sam": "",
+      "id": 23
+    }
+  ],
+  "Leave": [
+    {
+      "name": "Deepa",
+      "date": "12/11/2023",
+      "approved": true,
+      "subject": "I want leave on 12/12/2023 , for ranjis bday",
+      "id": 1
+    },
+    {
+      "name": "Deepa",
+      "date": "12/12/2023",
+      "approved": true,
+      "subject": "I want leave on 12/12/2023 , i want leave for upcomming two days",
+      "id": 2
+    },
+    {
+      "name": "Deepa",
+      "date": "12/12/2023",
+      "approved": true,
+      "subject": "I want leave on 12/12/2023 , i want leave for upcomming two days",
+      "id": 3
+    },
+    {
+      "name": "Deepa",
+      "date": "12/20/2023",
+      "approved": false,
+      "subject": "I want leave on 12/20/2023 , jdjdd",
+      "id": 4
+    },
+    {
+      "name": "Deepa",
+      "date": "12/20/2023",
+      "approved": false,
+      "subject": "I want leave on 12/20/2023 , tjrt",
+      "id": 5
+    }
+  ],
+  "Timetable": [
+    {
+      "name": "Deepa",
+      "Periods": [
+        {
+          "today": "Sunday"
+        },
+        {
+          "one": "8th-English",
+          "two": "4th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "10th-English",
+          "six": "Free",
+          "seven": "3rd-Activity",
+          "eight": "Free"
+        },
+        {
+          "one": "6th-English",
+          "two": "5th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "9th-English",
+          "six": "Free",
+          "seven": "Free",
+          "eight": "6th-English"
+        },
+        {
+          "one": "7th-English",
+          "two": "Free",
+          "three": "Free",
+          "four": "3rd-Activity",
+          "five": "8th-English",
+          "six": "Free",
+          "seven": "Free",
+          "eight": "6th-English"
+        },
+        {
+          "one": "6th-English",
+          "two": "10th-English",
+          "three": "3rd-Activity",
+          "four": "1st-Activity",
+          "five": "Free",
+          "six": "Free",
+          "seven": "3rd-Activity",
+          "eight": "Free"
+        },
+        {
+          "one": "8th-English",
+          "two": "9th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "4th-English",
+          "six": "2nd-Activity",
+          "seven": "3rd-Activity",
+          "eight": "6th-English"
+        },
+        {
+          "today": "Sunday"
+        }
+      ]
+    },
+    {
+      "name": "Pooja",
+      "Periods": [
+        {
+          "one": "8th-Maths",
+          "two": "4th-Maths",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "10th-Maths",
+          "six": "Free",
+          "seven": "3rd-Activity",
+          "eight": "6th-Maths"
+        },
+        {
+          "one": "6th-Maths",
+          "two": "5th-Maths",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "9th-Maths",
+          "six": "Free",
+          "seven": "Free",
+          "eight": "6th-Maths"
+        },
+        {
+          "one": "7th-Maths",
+          "two": "Free",
+          "three": "Free",
+          "four": "3rd-Activity",
+          "five": "8th-Maths",
+          "six": "Free",
+          "seven": "Free",
+          "eight": "6th-Maths"
+        },
+        {
+          "one": "6th-Maths",
+          "two": "10th-Maths",
+          "three": "3rd-Activity",
+          "four": "1st-Activity",
+          "five": "Free",
+          "six": "Free",
+          "seven": "3rd-Activity",
+          "eight": "Free"
+        },
+        {
+          "one": "8th-Maths",
+          "two": "9th-Maths",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "4th-Maths",
+          "six": "2nd-Activity",
+          "seven": "3rd-Activity",
+          "eight": "6th-Maths"
+        }
+      ]
+    },
+    {
+      "name": "Suresh",
+      "Periods": [
+        {
+          "one": "8th-Physics",
+          "two": "4th-Science",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "10th-Physics",
+          "six": "Free",
+          "seven": "3rd-Activity",
+          "eight": "Free"
+        },
+        {
+          "one": "6th-Physics",
+          "two": "5th-Science",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "9th-Physics",
+          "six": "Free",
+          "seven": "Free",
+          "eight": "6th-Physics"
+        },
+        {
+          "one": "7th-Physics",
+          "two": "Free",
+          "three": "Free",
+          "four": "3rd-Activity",
+          "five": "8th-Physics",
+          "six": "Free",
+          "seven": "5th-Science",
+          "eight": "6th-Physics"
+        },
+        {
+          "one": "6th-Physics",
+          "two": "10th-Physics",
+          "three": "3rd-Activity",
+          "four": "1st-Activity",
+          "five": "Free",
+          "six": "6th-Science",
+          "seven": "3rd-Activity",
+          "eight": "Free"
+        },
+        {
+          "one": "8th-Physics",
+          "two": "9th-Physics",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "4th-Science",
+          "six": "2nd-Activity",
+          "seven": "3rd-Activity",
+          "eight": "6th-Physics"
+        }
+      ]
+    }
+  ],
+  "Attendance": [
+    {
+      "classteacher": "Deepa k",
+      "date": "11/6/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "11/6/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/6/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/6/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/6/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/6/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/6/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/6/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/6/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/6/2023"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/7/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "no",
+          "date": "11/7/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/7/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/7/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/7/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/7/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/7/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/7/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/7/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/7/2023"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/8/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "11/8/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/8/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/8/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/8/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/8/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/8/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/8/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/8/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/8/2023"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/9/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "11/9/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/9/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/9/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/9/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/9/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/9/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/9/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/9/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/9/2023"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/10/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "no",
+          "date": "11/10/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/10/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/10/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/10/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/10/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/10/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/10/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/10/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/10/2023"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/13/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "11/13/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/13/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/13/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/13/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/13/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/13/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/13/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/13/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/13/2023"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/14/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "11/14/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/14/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/14/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/14/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/14/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/14/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/14/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/14/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/14/2023"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/15/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "11/15/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/15/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/15/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/15/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/15/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/15/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/15/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/15/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/15/2023"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/16/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "11/16/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/16/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/16/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/16/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/16/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/16/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/16/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/16/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/16/2023"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/17/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "11/17/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/17/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/17/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/17/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/17/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/17/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/17/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/17/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/17/2023"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/20/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "11/20/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/20/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/20/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/20/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/20/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/20/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/20/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/20/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/20/2023"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/21/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "11/21/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/21/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/21/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/21/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/21/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/21/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/21/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/21/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/21/2023"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/22/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "no",
+          "date": "11/22/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/22/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/22/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/22/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/22/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/22/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/22/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/22/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/22/2023"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/23/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "11/23/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/23/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/23/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/23/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/23/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/23/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/23/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/23/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/23/2023"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/24/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "11/24/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/24/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/24/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/24/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/24/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/24/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/24/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/24/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/24/2023"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/27/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "no",
+          "date": "11/27/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/27/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/27/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/27/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/27/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/27/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/27/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/27/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/27/2023"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/28/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "11/28/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/28/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/28/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/28/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/28/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/28/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/28/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/28/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/28/2023"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/29/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "11/29/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/29/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/29/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/29/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/29/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/29/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/29/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/29/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/29/2023"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "11/30/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "no",
+          "date": "11/30/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "11/30/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "11/30/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "11/30/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "11/30/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "11/30/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "11/30/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "11/30/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "11/30/2023"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "12/1/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "12/1/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "12/1/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "12/1/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "12/1/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "12/1/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "12/1/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "12/1/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "12/1/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "12/1/2023"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "12/4/2023",
+      "std": "3-rd",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "12/4/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "12/4/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "no",
+          "date": "12/4/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "12/4/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "12/4/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "12/4/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "no",
+          "date": "12/4/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "12/4/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "12/4/2023"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "12/5/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "12/5/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "12/5/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "12/5/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "no",
+          "date": "12/5/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "12/5/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "12/5/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "12/5/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "no",
+          "date": "12/5/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "12/5/2023"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "12/6/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "no",
+          "date": "12/6/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "12/6/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "12/6/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "12/6/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "12/6/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "12/6/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "12/6/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "12/6/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "12/6/2023"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "12/7/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "12/7/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "12/7/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "12/7/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "12/7/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "no",
+          "date": "12/7/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "12/7/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "12/7/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "12/7/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "12/7/2023"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "classteacher": "Deepa k",
+      "date": "12/8/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "12/8/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "12/8/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "12/8/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "12/8/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "12/8/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "12/8/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "no",
+          "date": "12/8/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "12/8/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "12/8/2023"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "classteacher": "Deepa",
+      "date": "12/11/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "12/11/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "12/11/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "12/11/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "no",
+          "date": "12/11/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "yes",
+          "date": "12/11/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "12/11/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "12/11/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "12/11/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "no",
+          "date": "12/11/2023"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "classteacher": "Deepa",
+      "date": "12/12/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "12/12/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "12/12/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "yes",
+          "date": "12/12/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "12/12/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "no",
+          "date": "12/12/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "12/12/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "12/12/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "12/12/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "12/12/2023"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "classteacher": "Deepa",
+      "date": "12/29/2023",
+      "std": "5-th",
+      "Attend": [
+        {
+          "name": "Geetha",
+          "present": "yes",
+          "date": "12/29/2023"
+        },
+        {
+          "name": "Virat",
+          "present": "yes",
+          "date": "12/29/2023"
+        },
+        {
+          "name": "Sanjay",
+          "present": "no",
+          "date": "12/29/2023"
+        },
+        {
+          "name": "Preethi",
+          "present": "yes",
+          "date": "12/29/2023"
+        },
+        {
+          "name": "Deepak",
+          "present": "no",
+          "date": "12/29/2023"
+        },
+        {
+          "name": "Gowri",
+          "present": "yes",
+          "date": "12/29/2023"
+        },
+        {
+          "name": "Arjun",
+          "present": "yes",
+          "date": "12/29/2023"
+        },
+        {
+          "name": "Ganesh",
+          "present": "yes",
+          "date": "12/29/2023"
+        },
+        {
+          "name": "Barathan",
+          "present": "yes",
+          "date": "12/29/2023"
+        }
+      ]
+    }
+  ]
+}

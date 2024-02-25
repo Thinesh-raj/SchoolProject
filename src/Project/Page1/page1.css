@@ -1,0 +1,512 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 0 3%;
+    margin: 0 6%;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    z-index: 999;
+    width: 82%;
+    border-bottom: 8px solid #141A46;
+}
+
+.part1 {
+    display: flex;
+    width: 65%;
+    align-items: center;
+}
+
+.part2 {
+    display: flex;
+    justify-content: space-evenly;
+    width: 35%;
+}
+
+.navbar img {
+    width: 12%;
+}
+
+.navbar h1 {
+    color: #356ba2 !important;
+    letter-spacing: 6px;
+}
+
+.navbar a {
+    border: none;
+    padding: 2% 3%;
+    border-radius: 20px;
+    text-decoration: none;
+    background-color: #69c;
+    color: #fff;
+}
+
+.scl-img {
+    margin: 0 6%;
+    width: 88%;
+    padding: 23% 0;
+    background-image: url(../Images/school.webp);
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #141A46;
+    opacity: .7;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.overlay img {
+    width: 45%;
+    height: 80%;
+    margin-top: 5%;
+}
+
+.overlay h2 {
+    width: 100%;
+    margin: 0%;
+    position: absolute;
+    bottom: 4%;
+    text-align: center;
+    color: #fff;
+    font-size: 2.4rem;
+}
+
+
+/* overveiw */
+.overview {
+    margin: 0 6%;
+    background-color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+
+.overview h2 {
+    margin: 0%;
+    padding: 4%;
+    width: 100%;
+    text-align: center;
+    background-color: #356ba2;
+    color: #fff;
+    border-bottom: 8px solid #fff;
+    border-top: 8px solid #fff;
+}
+
+.content {
+    width: 45%;
+    overflow: hidden;
+    z-index: 9;
+    background-color: #69c;
+    padding-left: 4%;
+    padding-top: 6%;
+    color: #fff;
+    font-size: 1.08rem;
+    border-right: 8px solid #fff;
+}
+
+.slider {
+    width: 50%;
+    display: flex;
+    animation-name: slide;
+    animation-iteration-count: infinite;
+    animation-duration: 15s;
+    transition: ease-in-out;
+}
+
+.slider img {
+    width: 100.3% !important;
+}
+
+@keyframes slide {
+    0% {
+        transform: translateX(0%);
+    }
+
+    25% {
+        transform: translateX(-100%);
+    }
+
+    50% {
+        transform: translateX(-200%);
+    }
+
+    75% {
+        transform: translateX(-300%);
+    }
+
+    100% {
+        transform: translateX(-400%);
+    }
+}
+
+.pin1 {
+    top: 5%;
+    right: 5%;
+    position: absolute;
+}
+
+.pin2 {
+    bottom: 5%;
+    left: 105%;
+    position: absolute;
+}
+
+.pin3 {
+    bottom: 5%;
+    left: 205%;
+    position: absolute;
+}
+
+.pin4 {
+    bottom: 5%;
+    left: 358%;
+    position: absolute;
+}
+
+.pin5 {
+    top: 5%;
+    left: 458%;
+    position: absolute;
+}
+
+.pin {
+    width: 33%;
+    background-color: #FFFFFF;
+    color: #232425;
+    font-size: 1.075rem;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+    border-radius: 40px;
+}
+
+.icon {
+    width: 30%;
+    font-size: 2rem;
+}
+
+span {
+    width: 70%;
+}
+
+.alumni {
+    margin: 0 6%;
+    background-color: #fff;
+}
+
+.alumni h1 {
+    margin: 0%;
+    text-align: center;
+    padding-top: 4%;
+    color: #141A46;
+}
+
+.alumniwrap {
+    padding-top: 4%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.achieve {
+    margin: 0 6%;
+    background-color: #fff;
+    display: flex;
+    overflow: hidden;
+    padding-top: 5%;
+}
+
+.anime {
+    width: 70%;
+    padding: 23% 8%;
+    background-image: url(../Images/pencil.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    position: relative;
+}
+
+.show {
+    width: 30%;
+    background-color: #356ba2;
+    color: #FFFFFF;
+    text-align: center;
+    z-index: 9;
+    overflow: hidden;
+}
+
+.show h3 {
+    margin-top: 20%;
+}
+
+.anime img {
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    border-radius: 20px;
+    box-shadow: 0 0 5px gray;
+}
+
+.anime span {
+    position: absolute;
+    top: 10%;
+    right: 9%;
+    background-color: #fff;
+    color: #356ba2;
+    border: 3px solid black;
+    width: 3%;
+    padding: 1.5% 1.3%;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    z-index: 99;
+    font-size: 1.5rem;
+}
+
+.fade1 {
+    top: 15%;
+}
+
+.fade2 {
+    top: 22%;
+    left: 13%;
+}
+
+.fade3 {
+    top: 29%;
+    left: 18%;
+}
+
+.fade4 {
+    top: 36%;
+    left: 23%;
+}
+
+.fade5 {
+    top: 43%;
+    left: 28%;
+}
+
+.fade6 {
+    top: 50%;
+    left: 33%;
+}
+
+.bright {
+    transform: scale(1.3);
+    border: 6px solid #FFFFFF !important;
+    top: 40%;
+    left: 50%;
+    z-index: 10;
+    border-radius: 20px;
+}
+
+.banner {
+    z-index: 12;
+    padding: 1% 3%;
+    color: #FFFFFF;
+    background-color: #356ba2;
+    position: absolute;
+    top: 83%;
+    left: 68%;
+    border-radius: 10px;
+    transition: ease-in-out !important;
+    animation: zoom;
+    animation-duration: 1.3s;
+    animation-iteration-count: 1;
+}
+
+@keyframes zoom {
+    0% {
+        transform: scale(0);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.contact {
+    margin: 0 6%;
+    padding: 1% 0;
+    background-color: #141A46;
+    color: #FFFFFF;
+    display: flex;
+}
+
+.address {
+    padding: 3% 2%;
+    width: 54%;
+    border-right: 1px solid #FFFFFF;
+}
+
+.address span {
+    margin-left: 1%;
+}
+
+.location {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1%;
+}
+
+.location span {
+    width: 90%;
+}
+
+.phone {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1%;
+}
+
+.mail {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1%;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    margin-top: 2%;
+}
+
+.i {
+    font-size: 1.3rem;
+    border: 2px solid #FFFFFF;
+    padding: 2% 3.4%;
+    border-radius: 50%;
+    margin-right: 4%;
+}
+
+.admit {
+    width: 45%;
+    padding: 1% 2%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.admit h3 {
+    width: 100%;
+}
+
+.adimg {
+    width: 20%;
+    height: 30%;
+}
+
+.adimg img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.name-ad {
+    width: 60%;
+    margin-left: 4%;
+}
+
+.name-ad h3 {
+    margin: 0;
+}
+
+.name-ad p {
+    margin-top: 1%;
+}
+
+.scroll {
+    position: fixed;
+    bottom: 4%;
+    right: 2%;
+    background-color: #69c;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 50%;
+    padding: .8%;
+    font-size: 1.1rem;
+    display: grid;
+    place-items: center;
+}
+
+
+@media only screen and (min-width:150px)and (max-width:480px) {
+    .part1 {
+        width: 50%;
+    }
+
+    .part2 {
+        width: 50%;
+    }
+
+    .navbar img {
+        width: 25%;
+    }
+
+    .navbar h1 {
+        font-size: .7rem;
+    }
+
+    .navbar a {
+        text-align: center;
+        margin-left: 1%;
+        font-size: .6rem;
+    }
+
+    .overlay img {
+        height: 70%;
+        margin-top: 10%;
+    }
+
+    .overlay h2 {
+        font-size: .8rem;
+    }
+
+    .content {
+        width: 100%;
+        border-right: 8px solid #69c;
+        font-size: .8rem;
+    }
+
+    .slider {
+        width: 100%;
+    }
+
+    .pin {
+        font-size: .8rem;
+    }
+
+    .pin span {
+        margin-left: 5%;
+
+    }
+    .alumni h1 {
+      font-size: 1rem;
+    }
+    .achieve{
+        display: none;
+    }
+    .address {
+        width: 100%;
+    }
+    .contact{
+        flex-wrap: wrap;
+    }
+    .admit {
+        width: 100%;
+    }
+    .scroll {
+        position: fixed;
+        bottom: 4%;
+        right: .5%;
+    }
+}

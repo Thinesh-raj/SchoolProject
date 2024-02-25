@@ -1,0 +1,95 @@
+.mainpart{
+    width: 30%;
+}
+.partone{
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.partone img{
+   width: 310px;
+   height: 310px;
+   border-radius: 50%;
+}
+.star1{
+    position: absolute;
+    font-size: 2rem;
+    top: 50%;
+    left: 5%;
+    color: #FFDB00;
+}
+.star2{
+    position: absolute;
+    font-size: 1.8rem;
+    top: 61%;
+    left: 7%;
+    color: #FFDB00;
+}
+.star3{
+    position: absolute;
+    font-size: 1.6rem;
+    top: 71%;
+    left: 10.5%;
+    color: #FFDB00;
+}
+.star4{
+    position: absolute;
+    font-size: 1.4rem;
+    top: 80%;
+    left: 15%;
+    color: #FFDB00;
+}
+.star5{
+    position: absolute;
+    font-size: 1.4rem;
+    top: 80%;
+    right: 15%;
+    color: #FFDB00;
+}
+.star6{
+    position: absolute;
+    font-size: 1.6rem;
+    top: 71%;
+    right: 10.5%;
+    color: #FFDB00;
+}
+.star7{
+    position: absolute;
+    font-size: 1.8rem;
+    top: 61%;
+    right: 7%;
+    color: #FFDB00;
+}
+.star8{
+    position: absolute;
+    font-size: 2rem;
+    top: 50%;
+    right: 5%;
+    color: #FFDB00;
+}
+.parttwo{
+    text-align: center;
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border: 8px double #356ba2;
+    margin-top: 2%;
+}
+.parttwo h3{
+    margin: 4% 0 2% 0 ;
+}
+.parttwo p{
+    margin: 0 0 3% 0;
+}
+
+
+@media only screen and (min-width:150px)and (max-width:480px){
+    .mainpart{
+        width: 100%;
+        margin-top: 2%;
+    }
+    .parttwo{
+        width: 90%;
+        margin-left: 2%;
+    }
+}
