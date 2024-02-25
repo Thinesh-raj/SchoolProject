@@ -1,0 +1,94 @@
+.uptcover{
+    background-color: #ffff;
+    display: grid;
+    place-items: center;
+
+}
+.update{
+    border: 3px solid #69c;
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    justify-content: space-evenly;
+    margin-top: 4%;
+    padding: 1%;
+    border-radius: 20px;
+}
+.update h1{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    color: #141A46;
+}
+.update p{
+    width: 40%;
+    margin-bottom: 1%;
+    margin-top: 4%;
+    color: #356ba2;
+}
+.update input{
+    width: 40%;
+    padding: 1%;
+    outline: none;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+.one-p{
+    width: 24%!important;
+    padding-left: 1%;
+}
+.two-p{
+    width: 24%!important;
+    padding-left: 1%;
+}
+.onebox{
+    width:24%!important ;
+}
+.twoboxs{
+    width:26.3%!important ;
+}
+.yes{
+    width: 10%;
+}
+.no{
+    width: 10%;
+}
+.update select{
+    width: 25%;
+    padding: 1%;
+    outline: none;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+.update textarea{
+    width: 40%;
+    outline: none;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+.btn{
+    width: 100%;
+    text-align: center;
+    margin: 4% 0 4% 0;
+}
+.btn button{
+    border: none;
+    background-color: #141A46;
+    color: #ffff;
+    border-radius: 30px;
+    padding: 1% 2%;
+}
+.arrback{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    background-color: red;
+    text-decoration: none;
+    color: #ffff;
+    width: 5%;
+    border-radius: 30px;
+    position: absolute;
+    top: 14.7%;
+    right: 28%;
+    padding: .3% ;
+}

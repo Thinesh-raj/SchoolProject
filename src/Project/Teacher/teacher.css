@@ -1,0 +1,340 @@
+.outer {
+    width: 100vw;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(45deg, #7F7FD5, #91EAE4) !important;
+}
+
+.teacher {
+    border: 3px solid #6262b3;
+    box-shadow: 0 0 20px #7F7FD5;
+    width: 65%;
+    padding: 1% 2%;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 6% 0;
+    position: relative;
+    background-color: #fff;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff!important;
+    width: 100%!important;
+    border: none!important;
+    border-radius: 0!important;
+    border-bottom: 6px double black!important;
+
+}
+.nav h1{
+    color:#141A46;
+}
+.teacher h2 {
+    width: 45%;
+}
+
+.teacher button {
+    border: none;
+    color: #fff;
+    background-color: rgb(30, 241, 30);
+    padding: 1% 2%;
+    border-radius: 20px;
+    font-size: 1rem;
+    font-family: cursive;
+    width: 12%;
+}
+.outbtn{
+    background-color: #E10000!important;
+}
+.teacher a {
+    border: none;
+    color: #fff;
+    background-color:#243192;
+    padding: 1% 2%;
+    border-radius: 20px;
+    font-size: 1rem;
+    font-family: cursive;
+    width: 8.5%;
+    text-decoration: none;
+}
+
+.applybtn {
+    width: 13.5% !important;
+    background-color: #69c !important;
+}
+
+.h2 {
+    width: 100% !important;
+    text-align: center;
+}
+
+.teacher div {
+    width: 45%;
+    border: 2px solid black;
+    text-align: center;
+    margin-bottom: 2% !important;
+    border-radius: 20px;
+    color: #fff;
+    background-color: #69c;
+}
+
+.editdiv {
+    width: 100% !important;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    border: none !important;
+    background-color: #fff !important;
+}
+
+.tag1 {
+    width: 45% !important;
+    transition: none;
+}
+
+.editdiv button {
+    width: 8%;
+    height: 6vh;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    padding: .8% 0;
+    background-color: #69c;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    font-family: cursive;
+}
+
+.p-address1 {
+    width: 93.5% !important;
+    transition: none;
+}
+
+.teacher span {
+    width: 8%;
+}
+
+.edit1 {
+    width: 45% !important;
+    padding: 1.35% 0% !important;
+    background-color: rgb(60, 192, 60)!important;
+    transition: none;
+}
+
+.p-edit1 {
+    width: 93.5% !important;
+    padding: 1.35% 0% !important;
+    background-color: rgb(60, 192, 60)!important;
+    transition: none;
+}
+
+.edit1 input {
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #fff;
+    color: #fff;
+    background-color: rgb(60, 192, 60)!important;
+    font-size: 1rem;
+    font-family: cursive;
+    text-align: center;
+    width: 30% !important;
+}
+
+.e-edit1 input {
+    width: 40% !important;
+}
+
+.p-edit1 input {
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #fff;
+    color: #fff;
+    font-size: 1rem;
+    font-family: cursive;
+    background-color: rgb(60, 192, 60)!important;
+    width: 30% !important;
+    text-align: center;
+}
+.editbtn {
+    background-color: #6262b3!important;
+}
+.add{
+    background-color: rgb(36, 173, 36)!important;
+}
+.timetable {
+    width: 90% !important;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 2%;
+}
+
+.timetable h1 {
+    width: 100%;
+    text-align: center;
+}
+
+.timetable .tt {
+    width: 42% !important;
+    background-color: #fff !important;
+    color: #141A46;
+}
+
+.teacher label {
+    border: none;
+    color: #fff;
+    background-color:#243192;
+    padding: 1% 2%;
+    border-radius: 20px;
+    font-size: 1rem;
+    font-family: cursive;
+    width: 6%;
+    display: grid;
+    place-items: center;
+}
+
+.hide {
+    display: none !important;
+    position: absolute;
+    top:315px;
+    right: 4%;
+    width: 15% !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 1% 0 .5% 0;
+    background-color: #fff !important;
+    transition: .5s ease-in-out;
+}
+
+.hide button {
+    width: 75%;
+    padding: 3% !important;
+    margin-bottom: 4%;
+}
+
+#check {
+    display: none;
+}
+
+#check:checked~.hide {
+    display: block !important;
+}
+
+.leaverequest {
+    position: absolute;
+    top: 27%;
+    width: 70% !important;
+    height: 40%;
+    background-color: #fff !important;
+}
+
+.leaverequest h1 {
+    color: #69c;
+}
+
+.reqflow{
+    width: 100%!important;
+    height: 65%!important;
+    background-color: #fff!important;
+    border: none!important;
+    overflow-y: scroll;
+}
+
+.reqflow::-webkit-scrollbar {
+    background-color: #ffff;
+}
+.reqlist {
+    width: 92% !important;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 5%;
+}
+
+.reqlist1 {
+    width: 90% !important;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 5%;
+    background-color: #fff !important;
+    color: black !important;
+    border: none !important;
+}
+
+.reqlist p {
+    width: 20%;
+}
+
+.req-p {
+    width: 50% !important;
+}
+
+.reqlist span {
+    width: 20%;
+}
+
+.reqlist1 p {
+    width: 20%;
+}
+
+.req-p {
+    width: 50% !important;
+}
+
+.reqlist1 span {
+    width: 20%;
+}
+
+.reqp {
+    color: red !important;
+    margin: 0 0 8% 0;
+}
+
+.approve{
+    background-color: rgb(49, 187, 49);
+    padding: .5% 0;
+    border-radius: 10px;
+}
+.close {
+    position: absolute;
+    top:30px;
+    right: 4%;
+    background-color: red !important;
+}
+
+.attend-alert {
+    display: none;
+    position: absolute;
+    top: 315px;
+    right: 15.5%;
+    width: 20% !important;
+    padding: .5%;
+    background-color: rgb(93, 224, 45) !important;
+}
+
+#alert {
+    display: none;
+}
+
+.label {
+    width: 9% !important;
+}
+
+#alert:checked~.attend-alert {
+    display: block;
+}
+#alert:checked~.hide {
+    display: none!important;
+}
